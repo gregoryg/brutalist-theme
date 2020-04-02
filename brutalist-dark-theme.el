@@ -46,6 +46,7 @@
 (brutalist-build-theme-with-colors
   ((fg "#eeeee8")
    (fg-table "light blue")
+   (fg-block-begin-end "light blue")
    (fg-dim "gray70")
    (fg-slight-dim "dim gray")
    (bg "gray20")
