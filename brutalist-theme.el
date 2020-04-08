@@ -48,6 +48,7 @@
    (fg-table "#222291")
    (fg-dim "dim gray")
    (fg-slight-dim "grey70")
+   (fg-block-begin-end "light blue")
    (bg "#fffff8")
    (bg-light "#ddddd8")
    (fg-light "#ddddd8")
@@ -66,6 +67,8 @@
 
    (string "blue")
    (cursor "white smoke")
+   (type-classes "#84ffff")
+   (variables "#ffcc80")
 
    (paren-match "blue")
    (paren-mismatch "red"))
