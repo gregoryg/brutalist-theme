@@ -49,7 +49,7 @@
    (fg-dim "dim gray")
    (fg-slight-dim "grey70")
    (fg-block-begin-end "light blue")
-   (bg "#fffff8")
+   (bg "#ffffff")
    (bg-light "#ddddd8")
    (fg-light "#ddddd8")
    (bg-highlight "#FFF1AA")
@@ -67,9 +67,10 @@
 
    (string "blue")
    (cursor "white smoke")
-   (type-classes "#84ffff")
-   (variables "#ffcc80")
-
+   (type-classes "#0072b2")
+   (variables "#EF6C00")
+   (highlight-indentation "grey85")
+   (hl-line "cornsilk")
    (paren-match "blue")
    (paren-mismatch "red"))
 

@@ -70,6 +70,8 @@
    (cursor "white smoke")
    (type-classes "#84ffff")
    (variables "#ffcc80")
+   (highlight-indentation "grey85")
+   (hl-line "indianred4")
 
    (paren-match "#aaccff")
    (paren-mismatch "red"))
