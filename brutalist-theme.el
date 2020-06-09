@@ -66,11 +66,11 @@
    (powerline2 "grey40")
 
    (string "blue")
-   (cursor "white smoke")
+   (cursor "White smoke")
    (type-classes "#0072b2")
    (variables "#EF6C00")
    (highlight-indentation "grey85")
-   (hl-line "cornsilk")
+   (hl-line "white smoke")
    (paren-match "blue")
    (paren-mismatch "red"))
 
