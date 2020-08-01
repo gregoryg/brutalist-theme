@@ -46,14 +46,16 @@
 (brutalist-build-theme-with-colors
   ((fg "#eeeee8")
    (fg-table "light blue")
+   (fg-block-begin-end "light blue")
    (fg-dim "gray70")
    (fg-slight-dim "dim gray")
+   (fg-ediff-unselected "dark gray")
    (bg "gray20")
    (bg-light "#888888")
    (fg-light "#ddddd8")
    (bg-highlight "grey40")
    (bg-highlight-2 "LightCyan")
-   (bg-highlight-3 "DarkGreen")
+   (bg-highlight-3 "green")
    (bg-highlight-dim "sea green")
 
    (diff-added "#334433")
@@ -66,6 +68,10 @@
 
    (string "light blue")
    (cursor "white smoke")
+   (type-classes "#84ffff")
+   (variables "#ffcc80")
+   (highlight-indentation "grey85")
+   (hl-line "indianred4")
 
    (paren-match "#aaccff")
    (paren-mismatch "red"))
