@@ -71,6 +71,8 @@
    (variables "#EF6C00")
    (highlight-indentation "grey85")
    (hl-line "white smoke")
+   (selectrum-primary-highlight "white smoke")
+   (selectrum-get-current-candidate "white smoke")
    (paren-match "blue")
    (paren-mismatch "red"))
 

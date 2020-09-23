@@ -72,6 +72,7 @@
    (variables "#ffcc80")
    (highlight-indentation "grey85")
    (hl-line "indianred4")
+   (highlight "indianred4")
 
    (paren-match "#aaccff")
    (paren-mismatch "red"))
