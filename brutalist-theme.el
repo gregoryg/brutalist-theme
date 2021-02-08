@@ -48,7 +48,7 @@
    (fg-table "#222291")
    (fg-dim "dim gray")
    (fg-slight-dim "grey70")
-   (fg-block-begin-end "light blue")
+   (fg-block-begin-end "deep sky blue")
    (bg "#ffffff")
    (bg-light "#ddddd8")
    (fg-light "#ddddd8")
@@ -61,6 +61,7 @@
    (diff-added-highlight "#a4f4a3")
    (diff-removed "#ffecec")
    (diff-removed-highlight "#f9cbca")
+   (font-lock-warning-face "orangered")
 
    (powerline1 "grey22")
    (powerline2 "grey40")

@@ -62,6 +62,7 @@
    (diff-added-highlight "#336633")
    (diff-removed "#443333")
    (diff-removed-highlight "#883333")
+   (font-lock-warning-face "orangered")
 
    (powerline1 "gray50")
    (powerline2 "gray60")
